@@ -33,7 +33,7 @@
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
-            <version>12.0.1</version>
+            <version>22.0.1</version>
         </dependency>
     </dependencies>
 
@@ -46,7 +46,7 @@
             <plugin>
                 <groupId>com.gluonhq</groupId>
                 <artifactId>client-maven-plugin</artifactId>
-                <version>0.1.31</version>
+                <version>1.0.22</version>
                 <configuration>
                     <mainClass>de.wesim.springbootjavafx.MainApp</mainClass>
                 </configuration>
